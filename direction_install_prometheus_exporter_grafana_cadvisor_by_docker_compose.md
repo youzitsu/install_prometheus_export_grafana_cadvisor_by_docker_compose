@@ -51,3 +51,8 @@ scrape_configs:
       - targets: ['localhost:8181']
 ```
 >note: 2 file này đặt cùng trong 1 folder
+
+# run bằng lệnh:
+```
+docker-compose up -d
+```
